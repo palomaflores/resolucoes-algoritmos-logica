@@ -8,7 +8,7 @@ A proposta aqui é resolver cada problema em várias linguagens para aprofundar 
 Este repositório reúne a resolução de problemas de lógica de programação abordando diversos tópicos como estruturas sequenciais, condicionais, repetitivas, vetores e matrizes.
 Os problemas foram resolvidos em múltiplas linguagens de programação, incluindo:
 
-- 📁 [Portugol]()
+- 📁 [Portugol](https://github.com/palomaflores/resolucoes-algoritmos-logica/tree/main/portugol)
 - 📁 C
 - 📁 C++
 - 📁 Java
